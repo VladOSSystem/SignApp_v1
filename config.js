@@ -1,0 +1,1 @@
+exports.PDF = `${__dirname}./PDF/normal.pdf`

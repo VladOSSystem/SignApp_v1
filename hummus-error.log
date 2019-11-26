@@ -1,0 +1,58 @@
+[ 25/11/2019 12:19:26 ] PDFParser::ParseHeaderLine, no tokens in PDF input. in other words - it's empty.
+[ 25/11/2019 12:40:58 ] PDFParser::ParseEOFLine, Couldn't find tokens in file
+[ 25/11/2019 13:10:30 ] PDFParser::ParseEOFLine, Couldn't find tokens in file
+[ 25/11/2019 13:12:41 ] PDFParser::ParseEOFLine, Couldn't find tokens in file
+[ 25/11/2019 13:26:12 ] InputFile::OpenFile, Unexpected Failure. Cannot open file for reading - ../../SignImg/1.png
+[ 25/11/2019 13:26:12 ] InputFile::OpenFile, Unexpected Failure. Cannot open file for reading - ../../SignImg/1.png
+[ 25/11/2019 13:26:28 ] PDFParser::ParseHeaderLine, no tokens in PDF input. in other words - it's empty.
+[ 25/11/2019 13:26:55 ] PDFParser::ParseHeaderLine, no tokens in PDF input. in other words - it's empty.
+[ 25/11/2019 13:27:23 ] PDFParser::ParseHeaderLine, no tokens in PDF input. in other words - it's empty.
+[ 25/11/2019 13:33:54 ] InputFile::OpenFile, Unexpected Failure. Cannot open file for reading - ./PDF/1.png
+[ 25/11/2019 13:33:54 ] InputFile::OpenFile, Unexpected Failure. Cannot open file for reading - ./PDF/1.png
+[ 25/11/2019 13:35:05 ] PDFParser::ParseHeaderLine, no tokens in PDF input. in other words - it's empty.
+[ 25/11/2019 13:35:35 ] PDFParser::ParseHeaderLine, no tokens in PDF input. in other words - it's empty.
+[ 25/11/2019 15:49:35 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 25/11/2019 15:49:54 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 25/11/2019 15:51:00 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 25/11/2019 15:57:10 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 25/11/2019 16:04:28 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 25/11/2019 16:27:41 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 25/11/2019 22:58:22 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 25/11/2019 23:09:15 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 26/11/2019 07:48:55 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 26/11/2019 07:49:15 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 26/11/2019 07:50:52 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 26/11/2019 07:51:14 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 26/11/2019 07:52:18 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 26/11/2019 08:04:57 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 26/11/2019 08:05:18 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 26/11/2019 08:07:41 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 26/11/2019 08:25:37 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 26/11/2019 08:28:25 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 26/11/2019 08:54:37 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 26/11/2019 09:00:18 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 26/11/2019 09:39:52 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 26/11/2019 09:48:14 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 26/11/2019 09:55:57 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 26/11/2019 09:58:11 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 26/11/2019 09:58:44 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 26/11/2019 10:03:09 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 26/11/2019 10:12:08 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 26/11/2019 10:17:10 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 26/11/2019 10:21:20 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 26/11/2019 10:39:35 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 26/11/2019 10:49:22 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 26/11/2019 11:08:48 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 26/11/2019 11:26:26 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 26/11/2019 11:26:51 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 26/11/2019 11:44:16 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 26/11/2019 11:44:33 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 26/11/2019 12:28:45 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 26/11/2019 12:30:03 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 26/11/2019 12:30:30 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 26/11/2019 12:34:17 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 26/11/2019 13:30:17 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 26/11/2019 13:34:20 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 26/11/2019 15:14:03 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 26/11/2019 15:23:10 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 26/11/2019 15:24:34 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
